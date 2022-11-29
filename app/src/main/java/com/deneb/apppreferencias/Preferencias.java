@@ -45,6 +45,9 @@ public class Preferencias extends AppCompatActivity {
             num_pregunta = 0;
             cambiarPregunta();
         }
+        else{
+            finish();
+        }
     }
 
 

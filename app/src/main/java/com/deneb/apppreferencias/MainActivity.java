@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.LENGTH_SHORT).show();
                 Intent i = new Intent(MainActivity.this, Preferencias.class);
                 startActivity(i);
+                finish();
             }
         });
 
