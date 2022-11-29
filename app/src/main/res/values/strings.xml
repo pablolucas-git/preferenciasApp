@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Preferencias</string>
+    <string name="empezamos">¿Empezamos?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="alla_vamos">Allá Vamos!</string>
+    <string name="como_quieras">Como quieras</string>
+    <string name="mirar">Mirar</string>
+    <string name="p1_enunciado">¿Qué comprarías?</string>
+    <string name="p1_op1">Coche</string>
+    <string name="p1_op2">Moto</string>
+    <string name="respuesta_almacenada">La respuesta ha sido guardada</string>
+    <string name="piensas_igual">Piensas igual</string>
+    <string name="piensas_distinto">Piensas distinto</string>
+    <string name="p2_enunciado">¿Qué plan prefieres?</string>
+    <string name="p2_op1">Cine</string>
+    <string name="p2_op2">Teatro</string>
+    <string name="p3_enunciado">¿Qué te gusta más?</string>
+    <string name="p3_op1">Dulce</string>
+    <string name="p3_op2">Salado</string>
+    <string name="alguien_mas">¿Alguien más quiere jugar?</string>
+</resources>
