@@ -19,4 +19,7 @@
     <string name="p3_op1">Dulce</string>
     <string name="p3_op2">Salado</string>
     <string name="alguien_mas">¿Alguien más quiere jugar?</string>
+    <string name="match">Ya no sería un match...</string>
+    <string name="hasempezadotu">Has empezado tú, idiota...</string>
+    <string name="hazlo">¡Hazlo!</string>
 </resources>
